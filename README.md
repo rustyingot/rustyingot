@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on :)
-- 📫 How to reach me: ue the email rusty_ingot@163.com
+- 📫 How to reach me: use the email rusty_ingot@163.com
 
 
 <!---
